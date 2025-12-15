@@ -1,9 +1,9 @@
 /**
  * Implémentation d'un jeu de Reversi
- * @author B. Léandre et C. Gwenole
+ * @author B.L
  */
 
-class Reversi_Bailly_Gwenole{
+class Reversi{
 
 	void principal(){
 		testCopierTableau();
@@ -821,3 +821,4 @@ class Reversi_Bailly_Gwenole{
 		return res;
 	}
 }
+
